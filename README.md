@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amin</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<h1 align="center">Hey, I'm Amin</h1>
+<h3 align="center">A passionate Programmer from Iran</h3>
 
-- 🌱 I’m currently learning **Python , C++ , CyberSecurity**
+- 🌱 I’m currently learning **Python , C++ , CyberSecurity** 
 
 - 💬 Ask me about **Python , CyberSecurity**
 
