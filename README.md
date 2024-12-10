@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">A passionate Programmer</h3>
 
-**- 🌱 I’m currently learning Python , CyberSecurity** 
+**- I’m currently learning Python , CyberSecurity** 
 
-**- 💬 Ask me about Python , CyberSecurity**
+**- Ask me about Python , CyberSecurity**
 
-**- 📫 How to reach me amin.lemon261@passinbox.com**
+**- How to reach me amin.lemon261@passinbox.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
