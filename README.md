@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">A passionate Programmer</h4>
 
-<h4> - I’m currently learning Python , CyberSecurity </h4>
+<h3> - I’m currently learning Python , CyberSecurity </h3>
 
-<h4> - Ask me about Python , CyberSecurity </h4>
+<h3> - Ask me about Python , CyberSecurity </h3>
 
-<h4> - How to reach me --> <a href="amin.lemon261@passinbox.com"> Email </a> </h4>
+<h3> - How to reach me --> <a href="amin.lemon261@passinbox.com"> Email </a> </h3>
 
 <br>
 
