@@ -9,7 +9,7 @@
 <br>
 <h1>Donate:</h1>
 <a href="http://www.coffeete.ir/Javan">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
+       <img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" style="width:260px;" />
 </a>
 
 
