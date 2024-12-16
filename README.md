@@ -5,7 +5,7 @@
 
 <h3> - Ask me about Python , CyberSecurity </h3>
 
-<h3> - How to reach me --> <a href="amin.lemon261@passinbox.com"> Email </a> </h3>
+<h3> - How to reach me --> <a href="mailto:amin.lemon261@passinbox.com"> Email </a> </h3>
 <br>
 <h1>Donate:</h1>
 <a href="http://www.coffeete.ir/Javan">
