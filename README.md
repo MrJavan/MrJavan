@@ -1,16 +1,11 @@
 <h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">A passionate Programmer</h4>
 
-<h3> - I’m currently learning Python , CyberSecurity </h3>
+- I’m currently learning **Python** , **CyberSecurity**
 
-<h3> - Ask me about Python , CyberSecurity </h3>
+- Ask me about **Python** , **CyberSecurity**
 
 <br>
-<h1>Donate:</h1>
-<a href="http://www.coffeete.ir/Javan">
-       <img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" style="width:260px;" />
-</a>
-
 
 
 <h1 align="left">Languages & Skills:</h1>
