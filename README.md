@@ -1,9 +1,10 @@
 <h1 align="center">Hey, I'm Amin</h1>
 <h3 align="center">A passionate Programmer</h4>
 
-- I’m currently learning **Python** , **CyberSecurity**
+- I’m currently learning **Python** , **CyberSecurity** , **AI**
 
-- Ask me about **Python** , **CyberSecurity**
+
+- Ask me about **AI** , **CyberSecurity**
 
 <br>
 
