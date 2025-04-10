@@ -4,7 +4,7 @@
 - I’m currently learning **AI** , **MachineLearning** , **DeepLearning** , **LLM**
 
 
-- Ask me about **AI** , **CyberSecurity**
+- Contact with me **mr.aminjavan@gmail.com**
 
 <br>
 
