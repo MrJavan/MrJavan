@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Amin</h1>
+<h1 align="center">Hey, I'm St4ck</h1>
 <h3 align="center">A passionate Programmer</h4>
 
 - I’m currently learning **AI** , **MachineLearning** , **DeepLearning** , **LLM**
