@@ -19,7 +19,7 @@ contact: mr.aminjavan@gmail.com
 ## ⚡ Tech Arsenal
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,bootstrap,cpp,rust,linux,docker,mongodb,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,rust,cpp,bootstrap,mongodb,git,github,vscode,linux,docker&theme=dark&perline=8" />
 </div>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
