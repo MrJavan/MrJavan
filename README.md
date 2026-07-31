@@ -12,7 +12,7 @@ current_focus:
   - 🖥️ Large Language Models (LLM)
 hobbies: ["Coding", "Gaming", "Sleep"]
 fun_fact: "Coding will soon be as important as reading."
-contact_me: mr.aminjavan@gmail.com
+contact: mr.aminjavan@gmail.com
 ```
 
 <!-- Tech Stack -->
