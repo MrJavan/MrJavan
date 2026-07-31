@@ -1,13 +1,28 @@
-<h1 align="center">Hey, I'm St4ck</h1>
-<h3 align="center">A passionate Programmer</h4>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=MrJavan&section=header&fontAlignY=37&animation=twinkling"/>
 
-- I’m currently learning **AI** , **MachineLearning** , **DeepLearning** , **LLM**
+<div align="center">
+Contact: mr.aminjavan@gmail.com
+</div>
 
+<br/>
 
-- Contact with me **mr.aminjavan@gmail.com**
+<!-- About Me Section -->
+## 🧑‍💻 About Me
 
-<br>
+```yaml
+name: Amin
+location: 🌍 Earth
+current_focus:
+  - 🖥️ Large Language Models (LLM)
+hobbies: ["Coding", "Gaming", "Sleep"]
+fun_fact: "Coding will soon be as important as reading."
+```
 
+<!-- Tech Stack -->
+## ⚡ Tech Arsenal
 
-<h1 align="left">Languages & Skills:</h1>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,bootstrap,cpp,rust,linux,docker,mongodb,vscode&theme=dark&perline=8" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&fontAlignY=36&animation=twinkling"/>
